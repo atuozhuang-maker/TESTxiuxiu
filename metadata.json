@@ -1,0 +1,6 @@
+{
+  "name": "国家队资金动向监测看板",
+  "description": "追踪并可视化A股神秘资金（国家队）的干预迹象、核心宽基ETF资金流入以及板块偏好。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
